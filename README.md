@@ -4,9 +4,8 @@
 
 ### Links
 
-* [submission PR]()
-* [travis]()
-* [swagger](https://codesandbox.io/s/api-client-08fpw)
+* [submission PR](https://github.com/mwilkin-401-advanced-javascript/lab-06/pull/1)
+* [swagger](https://app.swaggerhub.com/apis/mwilkin/lab-06/1.0.0)
 
 
 ### Running the app
