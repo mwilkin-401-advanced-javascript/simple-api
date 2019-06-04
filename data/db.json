@@ -36,32 +36,38 @@
     {
       "name": "apples",
       "category": "groceries",
-      "_id": 1
+      "_id": 1,
+      "description": "are round and crisp"
     },
     {
       "name": "is hard",
       "category": "coding",
-      "_id": 2
+      "_id": 2,
+      "description": "but intrensically rewarding"
     },
     {
       "name": "is big and loud ",
       "category": "truck",
-      "_id": 3
+      "_id": 3,
+      "description": "is vintage, green vehicle"
     },
     {
       "name": "wagon",
       "category": "car",
-      "_id": 4
+      "_id": 4,
+      "description": "is reliable and good in snow"
     },
     {
       "name": "blueberries",
       "category": "plants",
-      "_id": 5
+      "_id": 5,
+      "description": "are my favorite fruit"
     },
     {
       "name": "nails",
       "category": "hardware",
-      "_id": 6
+      "_id": 6,
+      "description": "are needed for building a house"
     }
   ]
 }
