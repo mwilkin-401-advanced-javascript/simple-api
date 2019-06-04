@@ -1,50 +1,67 @@
 {
   "categories": [
     {
-      "name": "skiing",
-      "_id": 1
+      "_id": 1,
+      "name": "groceries", 
+      "description": "stuff to eat"
     },
     {
-      "name": "tree",
-      "_id": 2
+      "_id": 2,
+      "name": "hardware",
+      "description": "things to build stuff"
+
     },
     {
+      "_id": 3,
       "name": "coding",
-      "_id": 3
+      "description": "is super fun"
     },
     {
-      "name": "grocery",
-      "_id": 4
+      "_id": 4,
+      "name": "plants",
+      "description": "for my garden"
     },
     {
+      "_id": 5,
       "name": "car",
-      "_id": 5
+      "description": "Subaru"
     },
     {
+      "_id": 6,
       "name": "truck",
-      "_id": 6
+      "description": "Ford F250"
     }
   ],
   "products": [
     {
       "name": "apples",
-      "category_id": 2,
+      "category": "groceries",
       "_id": 1
     },
     {
-      "name": "is fun",
-      "category_id": 1,
+      "name": "is hard",
+      "category": "coding",
       "_id": 2
     },
     {
-      "name": "are loud ",
-      "category_id": 6,
+      "name": "is big and loud ",
+      "category": "truck",
       "_id": 3
     },
     {
-      "name": "is fast",
-      "category_id": 5,
+      "name": "wagon",
+      "category": "car",
       "_id": 4
+    },
+    {
+      "name": "blueberries",
+      "category": "plants",
+      "_id": 5
+    },
+    {
+      "name": "nails",
+      "category": "hardware",
+      "_id": 6
     }
   ]
 }
