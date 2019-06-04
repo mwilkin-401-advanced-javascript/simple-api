@@ -1,7 +1,7 @@
 {
-  "/simpe_api/categroies": "/$1",
+  "/simpe_api/categroies": "/$1/$2",
   "/simpe_api/categroies/:id": "/$1/$2",
-  "/simpe_api/products": "/$1",
+  "/simpe_api/products": "/$1/$2",
   "/simpe_api/products/:id": "/$1/$2"
 
 }
