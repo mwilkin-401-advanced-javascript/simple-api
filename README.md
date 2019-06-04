@@ -4,7 +4,7 @@
 
 ### Links
 
-* [submission PR](https://github.com/mwilkin-401-advanced-javascript/lab-06/pull/1)
+* [submission PR](https://github.com/mwilkin-401-advanced-javascript/simple-api/pull/1)
 * [swagger](https://app.swaggerhub.com/apis/mwilkin/lab-06/1.0.0)
 
 
